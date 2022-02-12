@@ -1,3 +1,2 @@
 # CS523_N05
-
-https://nhatthanh1.github.io/CS523_N05/ExternalSort/
+https://ltv1873.github.io/Sort/External%20Sort/index.html
